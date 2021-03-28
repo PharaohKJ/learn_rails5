@@ -1,3 +1,5 @@
+2021-03-28 いったんメンテを放棄します。
+
 # README
 
 This README would normally document whatever steps are necessary to get the
